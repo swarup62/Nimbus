@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nimbus</string>
+    //Get API key link - https://home.openweathermap.org/api_keys
+    <string name="weather_api_key">Enter your API key here</string>
+    <string name="about_nimbus">Welcome to Nimbus - Your Advanced Weather Companion!\n\nNimbus is a sophisticated weather application designed to provide you with accurate and detailed weather information. Our app features real-time weather updates, comprehensive atmospheric data, and a user-friendly interface.\n\nKey Features:\n• Real-time temperature and feels-like readings\n• Detailed weather conditions including rain probability, wind speed, and humidity\n• Atmospheric pressure and UV index monitoring\n• Visibility conditions tracking\n• Sun and moon position tracking with rise/set times\n• Three-day weather forecast\n• Location-based weather updates\n\nNimbus combines beautiful design with powerful functionality to deliver an exceptional weather tracking experience. Whether you\'re planning your day or checking the week\'s forecast, Nimbus provides all the weather information you need in an elegant, easy-to-read format.</string>
+    <string name="copyright_text">© 2024 All rights reserved by Swarup Paul</string>
+</resources>
